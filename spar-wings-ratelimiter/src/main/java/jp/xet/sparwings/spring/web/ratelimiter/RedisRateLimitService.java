@@ -25,7 +25,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import org.springframework.data.redis.core.RedisTemplate;
 
-import jp.xet.baseunits.timeutil.Clock;
+import vn.com.unit.sparwings.baseunits.timeutil.Clock;
 
 /**
  * {@link RateLimitService} implementation to store values in redis.

@@ -35,10 +35,10 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 
-import jp.xet.baseunits.time.TimePoint;
-import jp.xet.baseunits.timeutil.Clock;
-import jp.xet.baseunits.timeutil.FixedTimeSource;
-import jp.xet.baseunits.timeutil.SystemClock;
+import vn.com.unit.sparwings.baseunits.time.TimePoint;
+import vn.com.unit.sparwings.baseunits.timeutil.Clock;
+import vn.com.unit.sparwings.baseunits.timeutil.FixedTimeSource;
+import vn.com.unit.sparwings.baseunits.timeutil.SystemClock;
 
 /**
  * TODO for daisuke

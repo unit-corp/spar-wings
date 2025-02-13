@@ -25,10 +25,10 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import jp.xet.baseunits.time.Duration;
-import jp.xet.baseunits.time.TimePoint;
-import jp.xet.baseunits.time.TimeUnit;
-import jp.xet.baseunits.timeutil.Clock;
+import vn.com.unit.sparwings.baseunits.time.Duration;
+import vn.com.unit.sparwings.baseunits.time.TimePoint;
+import vn.com.unit.sparwings.baseunits.time.TimeUnit;
+import vn.com.unit.sparwings.baseunits.timeutil.Clock;
 
 /**
  * {@link HandlerInterceptor} implementation to logging request handling time.

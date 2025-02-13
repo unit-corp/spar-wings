@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
 
 import lombok.extern.slf4j.Slf4j;
 
-import jp.xet.baseunits.timeutil.Clock;
+import vn.com.unit.sparwings.baseunits.timeutil.Clock;
 
 /**
  * {@link RateLimitService} implementation to store values in memory.

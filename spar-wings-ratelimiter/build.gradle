@@ -8,6 +8,6 @@ dependencies {
 	compile "org.springframework.security:spring-security-core"
 	compile "org.springframework.data:spring-data-redis"
 	compile "redis.clients:jedis"
-	compile "jp.xet:baseunits:$baseunitsVersion"
+	compile "vn.com.unit.spar-wings:baseunits:$baseunitsVersion"
 	compile project(":spar-wings-httpexceptions")
 }
